@@ -1,3 +1,4 @@
+#20190723
 ######Nginx配置文件nginx.conf 笔记#####
 
 #定义Nginx运行的用户和用户组 eg:www www
