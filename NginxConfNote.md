@@ -1,3 +1,10 @@
+---
+title: NginxConfNote
+date: 2019-07-24 13:57:02
+tags:
+---
+
+```
 #20190723
 ######Nginx配置文件nginx.conf 笔记#####
 
@@ -355,3 +362,5 @@ http
     }
 }
 ######Nginx配置文件nginx.conf详解笔记#####
+```
+
