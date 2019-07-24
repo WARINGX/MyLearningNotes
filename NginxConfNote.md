@@ -4,11 +4,9 @@ date: 2019-07-24 13:57:02
 tags:
 ---
 
-<<<<<<< HEAD:NginxConfNote.md
 
 
-=======
->>>>>>> b1f819206efae4a778249db43b6ce834840d3dd8:NginxConfNote.md
+
 ```
 #20190723
 ######Nginx配置文件nginx.conf 笔记#####
