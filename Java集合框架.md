@@ -1,4 +1,4 @@
-本文作为笔记，摘取自博客园博主[![返回主页](https://www.cnblogs.com/Skins/custom/images/logo.gif)](https://www.cnblogs.com/xiaoxi/)平凡希[原地址](https://www.cnblogs.com/xiaoxi/p/6089984.html)
+本文作为笔记，摘取自博客园博主[![返回主页](https://www.cnblogs.com/Skins/custom/images/logo.gif)](https://www.cnblogs.com/xiaoxi/)平凡希                 [原地址](https://www.cnblogs.com/xiaoxi/p/6089984.html)
 
 集合框架被设计成要满足以下几个目标。
 
